@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Praveen Shukla"
 title_separator          : "-"
 name                     : &name "Praveen Shukla"
-description              : &description "AI & Data Science @ MBZUAI — Graph Deep Learning, LLM Agents, AI in Healthcare"
+description              : &description "AI Engineering @ MBZUAI — Graph Deep Learning, LLM Agents, AI in Healthcare"
 url                      : https://praveenashukla.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -30,7 +30,7 @@ author:
   location         : "Abu Dhabi, UAE"
   employer         : "MBZUAI"
   uri              : 
-  email            : "prashuiit@gmail.com" 
+  email            : "praveen.shukla@mbzuai.ac.ae" 
 
   # Academic websites
   academia         : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : 
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
