@@ -15,9 +15,64 @@ What I’m working on
 - Retrieval + agentic workflows with LLMs
 - Practical ML systems: evaluation, data quality, and fast iteration
 
-Latest publication
-------
-- **EdgeRAG: Packable, Offline, and Fair Retrieval-Augmented Micro-Models for Low-Connectivity Regions** — accepted at AAAI 2026 EGSAI Workshop. [Read more](/publication/2025-11-20-edgerag-egsai-2026).
+<style>
+.selected-pubs { margin: 1.5rem 0 2.5rem; }
+.selected-pubs h2 { margin-bottom: 0.25rem; }
+.selected-pub {
+  display: grid;
+  grid-template-columns: 120px 1fr;
+  gap: 0.75rem 1.5rem;
+  padding: 0.9rem 0;
+  border-bottom: 1px solid var(--global-border-color);
+}
+.selected-pub:last-child { border-bottom: none; }
+.pub-meta { color: #666; font-weight: 600; line-height: 1.4; }
+.pub-year { font-size: 0.95rem; }
+.pub-body { display: grid; gap: 0.35rem; }
+.pub-title { font-size: 1.05rem; font-weight: 700; line-height: 1.5; }
+.pub-title a { color: inherit; text-decoration: none; }
+.pub-title a:hover { text-decoration: underline; }
+.pub-highlight { color: #b22222; font-weight: 700; font-size: 0.95rem; margin-left: 0.35rem; }
+.pub-authors { color: #444; }
+.pub-links { display: inline-flex; gap: 0.5rem; align-items: center; }
+.pub-badge {
+  padding: 0.3rem 0.65rem;
+  font-size: 0.85rem;
+  border-radius: 4px;
+  background: #b22222;
+  color: #fff;
+}
+.pub-badge--secondary { background: #1f6feb; }
+.pub-badge--tertiary { background: #5a5a5a; }
+</style>
+
+{% assign featured_pubs = site.publications | where: "featured", true %}
+{% if featured_pubs.size > 0 %}
+<section class="selected-pubs">
+  <h2>Selected Publications</h2>
+  <hr />
+  {% for post in featured_pubs %}
+    <div class="selected-pub">
+      <div class="pub-meta">
+        <div class="pub-venue">{{ post.venue }}</div>
+        <div class="pub-year">{{ post.date | date: "%Y" }}</div>
+      </div>
+      <div class="pub-body">
+        <div class="pub-title">
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          {% if post.highlight %}<span class="pub-highlight">⭐ {{ post.highlight }}</span>{% endif %}
+        </div>
+        {% if post.authors %}<div class="pub-authors">{{ post.authors }}</div>{% endif %}
+        <div class="pub-links">
+          {% if post.paperurl %}<a class="pub-badge" href="{{ post.paperurl }}">PDF</a>{% endif %}
+          {% if post.code or post.github %}<a class="pub-badge pub-badge--secondary" href="{{ post.code | default: post.github }}">GitHub</a>{% endif %}
+          <a class="pub-badge pub-badge--tertiary" href="{{ post.url | relative_url }}">Details</a>
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+</section>
+{% endif %}
 
 Recent highlights
 ------
