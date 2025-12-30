@@ -27,7 +27,7 @@ What I’m working on
 }
 .selected-pub:last-child { border-bottom: none; }
 .pub-meta { color: #666; font-weight: 600; line-height: 1.4; }
-.pub-year { font-size: 0.95rem; }
+.pub-year { display: none; }
 .pub-body { display: grid; gap: 0.35rem; }
 .pub-title { font-size: 1.05rem; font-weight: 700; line-height: 1.5; }
 .pub-title a { color: inherit; text-decoration: none; }
@@ -75,6 +75,21 @@ What I’m working on
 {% endif %}
 
 [View all publications →](/publications/)
+
+News & updates
+------
+<style>
+.news-list { list-style: disc; padding-left: 1.25rem; margin: 1rem 0 2rem; }
+.news-list li { margin-bottom: 0.5rem; line-height: 1.6; }
+.news-date { font-weight: 700; color: #b22222; margin-right: 0.35rem; }
+</style>
+<ul class="news-list">
+  <li><span class="news-date">Nov 2025:</span> EdgeRAG (solo author) accepted to AAAI 2026 EGSAI Workshop; preparing camera-ready and demo artifacts.</li>
+  <li><span class="news-date">Sept 2025:</span> Shipped new LLM agent workflows for research productivity; rolling out eval dashboards for tool reliability.</li>
+  <li><span class="news-date">July 2025:</span> Prototyped graph neural models on patient trajectory data; running ablations on data quality and fairness.</li>
+  <li><span class="news-date">May 2025:</span> Presented internal talk on retrieval + agentic pipelines for healthcare use cases.</li>
+  <li><span class="news-date">Mar 2025:</span> Open to collaborations on applied AI in healthcare and graph learning—reach out!</li>
+</ul>
 
 Recent highlights
 ------
