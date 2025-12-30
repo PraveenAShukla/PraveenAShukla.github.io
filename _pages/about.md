@@ -15,15 +15,12 @@ What I’m working on
 - Retrieval + agentic workflows with LLMs
 - Practical ML systems: evaluation, data quality, and fast iteration
 
-Publications
-------
-
 <style>
 .selected-pubs { margin: 1.5rem 0 2.5rem; }
 .selected-pubs h2 { margin-bottom: 0.25rem; }
 .selected-pub {
   display: grid;
-  grid-template-columns: 120px 1fr;
+  grid-template-columns: 150px minmax(0, 1fr);
   gap: 0.75rem 1.5rem;
   padding: 0.9rem 0;
   border-bottom: 1px solid var(--global-border-color);
@@ -32,10 +29,10 @@ Publications
 .pub-meta { color: #666; font-weight: 600; line-height: 1.4; }
 .pub-year { font-size: 0.95rem; }
 .pub-body { display: grid; gap: 0.35rem; }
-.pub-title { font-size: 1.05rem; font-weight: 700; line-height: 1.5; }
+.pub-title { font-size: 1.05rem; font-weight: 700; line-height: 1.5; display: flex; flex-wrap: wrap; gap: 0.35rem; align-items: center; }
 .pub-title a { color: inherit; text-decoration: none; }
 .pub-title a:hover { text-decoration: underline; }
-.pub-highlight { color: #b22222; font-weight: 700; font-size: 0.95rem; margin-left: 0.35rem; }
+.pub-highlight { color: #b22222; font-weight: 700; font-size: 0.95rem; }
 .pub-authors { color: #444; }
 .pub-links { display: inline-flex; gap: 0.5rem; align-items: center; }
 .pub-badge {
@@ -52,7 +49,7 @@ Publications
 {% assign featured_pubs = site.publications | where: "featured", true %}
 {% if featured_pubs.size > 0 %}
 <section class="selected-pubs">
-  <h2>Selected Publications</h2>
+  <h2>Publications</h2>
   <hr />
   {% for post in featured_pubs %}
     <div class="selected-pub">
