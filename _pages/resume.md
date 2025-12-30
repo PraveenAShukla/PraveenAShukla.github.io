@@ -19,7 +19,7 @@ custom_js:
           <img src="{{ '/images/profile.png' | relative_url }}" alt="Praveen Shukla" class="resume-avatar">
           <div>
             <p class="resume-name">Praveen Shukla</p>
-            <p class="resume-headline">Artificial Intelligence &amp; Data Science @ IIT Madras</p>
+            <p class="resume-headline">Artificial Intelligence &amp; Data Science @ MBZUAI</p>
             <div class="contact-links">
               <a href="mailto:prashuiit@gmail.com">Email</a>
               <a href="https://www.linkedin.com/in/praveen-ashukla/" target="_blank" rel="noopener">LinkedIn</a>
@@ -38,7 +38,7 @@ custom_js:
       <div class="resume-card">
         <div class="section-heading"><span class="icon">👋</span><span>About</span></div>
         <p class="body-text">
-          I am an <span class="semi-bold">Artificial Intelligence &amp; Data Science</span> undergrad at <span class="semi-bold">IIT Madras</span>, turning complex data into actionable insights and building real-world solutions—from <span class="semi-bold">graph deep learning</span> models to <span class="semi-bold">spatio-temporal analytics</span>, <span class="semi-bold">data distillation</span>, and <span class="semi-bold">efficient information retrieval</span>. I prototype <span class="semi-bold">LLM-powered agents</span> and explore <span class="semi-bold">prompt engineering</span> and <span class="semi-bold">agentic frameworks</span> to push the boundaries of human-AI collaboration.
+          I am an <span class="semi-bold">Artificial Intelligence &amp; Data Science</span> undergrad at <span class="semi-bold">MBZUAI</span>, turning complex data into actionable insights and building real-world solutions—from <span class="semi-bold">graph deep learning</span> models to <span class="semi-bold">spatio-temporal analytics</span>, <span class="semi-bold">data distillation</span>, and <span class="semi-bold">efficient information retrieval</span>. I prototype <span class="semi-bold">LLM-powered agents</span> and explore <span class="semi-bold">prompt engineering</span> and <span class="semi-bold">agentic frameworks</span> to push the boundaries of human-AI collaboration.
         </p>
         <p class="body-text" style="margin-top:0.9rem;">
           Outside the lab, I <span class="semi-bold">co-discovered 19 Main Belt asteroids</span> as a citizen-science mentor, <span class="semi-bold">founded GLOBAL SCIENCE</span> to engage <span class="semi-bold">50K+ students</span> in STEM, and love hands-on tinkering—whether decoding ancient science texts, listening to instrumental music, or hacking AI-powered bots and intelligent web apps. All fueled by <span class="semi-bold">curiosity</span>, <span class="semi-bold">caffeine</span>, and <span class="semi-bold">code</span>.
@@ -73,8 +73,8 @@ custom_js:
     <div class="section-block" id="education">
       <div class="section-heading"><span class="icon">🎓</span><span>Education</span></div>
       <div class="edu-item">
-        <p class="item-title">Indian Institute of Technology Madras</p>
-        <p class="timeframe">2024 - 2028 | Chennai, TN, India</p>
+        <p class="item-title">Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)</p>
+        <p class="timeframe">2024 - 2028 | Abu Dhabi, UAE</p>
         <p class="item-sub">B.Tech in Artificial Intelligence &amp; Data Science — SGPA: 9/10</p>
       </div>
       <div class="edu-item">
@@ -138,6 +138,15 @@ custom_js:
           <p class="timeframe">Oct 2020 - Nov 2021 | Mumbai, MH, India</p>
           <p class="detail-text">Led the Saptarishi VIPNET 03 campaign, mentoring teachers across three states to discover 10 preliminary Main Belt asteroids; advanced to National Mentor guiding student and educator teams to 19 discoveries. Provided technical training on Astrometrica and MPC reporting, scaling grassroots citizen-science contributions.</p>
         </div>
+      </div>
+    </div>
+
+    <div class="section-block" id="teaching">
+      <div class="section-heading"><span class="icon">📚</span><span>Teaching</span></div>
+      <div class="xp-item">
+        <p class="item-title">Peer Tutor — Python Programming (Undergraduate)</p>
+        <p class="timeframe">Fall 2025 | MBZUAI, Abu Dhabi, UAE</p>
+        <p class="detail-text">Led small-group sessions and office hours for an undergraduate Python course, guiding students on fundamentals, debugging strategies, and applied examples to boost code quality and problem-solving confidence.</p>
       </div>
     </div>
 
