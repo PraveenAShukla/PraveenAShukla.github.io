@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Praveen Shukla | Portfolio"
+title                    : "Praveen Shukla"
 title_separator          : "-"
 name                     : &name "Praveen Shukla"
 description              : &description "AI & Data Science @ MBZUAI — Graph Deep Learning, LLM Agents, AI in Healthcare"
