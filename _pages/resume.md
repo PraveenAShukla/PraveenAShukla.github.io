@@ -16,7 +16,7 @@ custom_js:
     <div class="resume-hero">
       <div class="resume-card">
         <div class="resume-profile">
-          <img src="{{ '/images/profile.png' | relative_url }}" alt="Praveen Shukla" class="resume-avatar">
+          <img src="{{ '/images/PS_Profile_Photo.png' | relative_url }}" alt="Praveen Shukla" class="resume-avatar">
           <div>
             <p class="resume-name">Praveen Shukla</p>
             <p class="resume-headline">Artificial Intelligence &amp; Data Science @ MBZUAI</p>
