@@ -15,6 +15,10 @@ What I’m working on
 - Retrieval + agentic workflows with LLMs
 - Practical ML systems: evaluation, data quality, and fast iteration
 
+Latest publication
+------
+- **EdgeRAG: Packable, Offline, and Fair Retrieval-Augmented Micro-Models for Low-Connectivity Regions** — accepted at AAAI 2026 EGSAI Workshop. [Read more](/publication/2025-11-20-edgerag-egsai-2026).
+
 Recent highlights
 ------
 - Built and shipped LLM agent workflows for research productivity
@@ -24,6 +28,10 @@ Recent highlights
 Education
 ------
 - B.S. in AI & Data Science (undergraduate), MBZUAI — Abu Dhabi
+
+CV
+------
+- Full CV: [View here](/cv/)
 
 Find me
 ------

@@ -9,37 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
+Summary
+======
+AI & Data Science undergrad at MBZUAI in Abu Dhabi. I work on graph deep learning, LLM agents, and healthcare AI—building systems that can reason over real-world, often messy data and stay deployable.
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in AI & Data Science (undergraduate), Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), Abu Dhabi — In progress
 
-Work experience
+Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024–Present: Applied AI projects (self-directed + collaborations)
+  * Built LLM agent workflows for research productivity (retrieval, tool use, evaluation loops)
+  * Prototyped graph learning pipelines for healthcare and biology data
+  * Focus on practical evals, data quality, and deployment-friendly models
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Research & Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Graph representation learning (healthcare, biology, knowledge graphs)
+* Retrieval + agentic workflows with LLMs
+* Evaluation, data quality, and efficient deployment
 
 Publications
 ======
@@ -58,7 +47,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
