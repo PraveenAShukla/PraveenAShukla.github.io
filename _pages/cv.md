@@ -11,11 +11,11 @@ redirect_from:
 
 Summary
 ======
-AI & Data Science undergrad at MBZUAI in Abu Dhabi. I work on graph deep learning, LLM agents, and healthcare AI—building systems that can reason over real-world, often messy data and stay deployable.
+AI Engineering undergrad at MBZUAI in Abu Dhabi. I work on graph deep learning, LLM agents, and healthcare AI—building systems that can reason over real-world, often messy data and stay deployable.
 
 Education
 ======
-* B.S. in AI & Data Science (undergraduate), Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), Abu Dhabi — In progress
+* B.S. in AI Engineering (undergraduate), Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), Abu Dhabi — In progress
 
 Experience
 ======

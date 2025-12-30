@@ -99,7 +99,7 @@ Recent highlights
 
 Education
 ------
-- B.S. in AI & Data Science (undergraduate), MBZUAI — Abu Dhabi
+- B.S. in AI Engineering (undergraduate), MBZUAI — Abu Dhabi
 
 CV
 ------
