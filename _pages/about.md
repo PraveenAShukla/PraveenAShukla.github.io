@@ -15,6 +15,9 @@ What I’m working on
 - Retrieval + agentic workflows with LLMs
 - Practical ML systems: evaluation, data quality, and fast iteration
 
+Publications
+------
+
 <style>
 .selected-pubs { margin: 1.5rem 0 2.5rem; }
 .selected-pubs h2 { margin-bottom: 0.25rem; }
@@ -73,6 +76,8 @@ What I’m working on
   {% endfor %}
 </section>
 {% endif %}
+
+[View all publications →](/publications/)
 
 Recent highlights
 ------
