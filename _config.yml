@@ -23,7 +23,7 @@ repository               : "PraveenAShukla/PraveenAShukla.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-avatar           : "praveen_avatar.png"
+avatar           : "praveen_profile.png"
   name             : "Praveen Shukla"
   pronouns         : # example: "she/her"  
   bio              : "AI & Data Science undergrad at MBZUAI building graph deep learning, LLM agents, and healthcare AI."
