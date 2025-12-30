@@ -107,7 +107,6 @@ CV
 
 Find me
 ------
-- Email: prashuiit@gmail.com
+- Email: praveen.shukla@mbzuai.ac.ae
 - GitHub: [PraveenAShukla](https://github.com/PraveenAShukla)
 - LinkedIn: [praveen-ashukla](https://www.linkedin.com/in/praveen-ashukla)
-- Bluesky: bsky.app
