@@ -29,10 +29,10 @@ What I’m working on
 .pub-meta { color: #666; font-weight: 600; line-height: 1.4; }
 .pub-year { font-size: 0.95rem; }
 .pub-body { display: grid; gap: 0.35rem; }
-.pub-title { font-size: 1.05rem; font-weight: 700; line-height: 1.5; display: flex; flex-wrap: wrap; gap: 0.35rem; align-items: center; }
+.pub-title { font-size: 1.05rem; font-weight: 700; line-height: 1.5; }
 .pub-title a { color: inherit; text-decoration: none; }
 .pub-title a:hover { text-decoration: underline; }
-.pub-highlight { color: #b22222; font-weight: 700; font-size: 0.95rem; }
+.pub-highlight { color: #b22222; font-weight: 700; font-size: 0.95rem; margin-left: 0.35rem; }
 .pub-authors { color: #444; }
 .pub-links { display: inline-flex; gap: 0.5rem; align-items: center; }
 .pub-badge {
