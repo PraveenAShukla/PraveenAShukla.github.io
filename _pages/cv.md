@@ -15,7 +15,7 @@ AI Engineering undergrad at MBZUAI in Abu Dhabi. I work on graph deep learning, 
 
 Education
 ======
-* B.S. in AI Engineering (undergraduate), Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), Abu Dhabi — In progress
+* B.S. in AI Engineering, Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), Abu Dhabi — In progress
 
 Experience
 ======
