@@ -9,6 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+<style>
+/* Consistent accent color for CV sections */
+.page__content h2,
+.page__content h3 {
+  color: #e45a00;
+}
+</style>
+
 Summary
 ======
 Freshman AI Engineering undergrad at MBZUAI (Abu Dhabi), focused on research-minded building of reasoning-centric AI systems. Exploring graph deep learning, LLM agents, healthcare AI, fairness, and personalization with rigorous experimentation and reproducible prototypes—working toward AI co-scientists that collaborate with humans to accelerate reliable discovery and impact.
