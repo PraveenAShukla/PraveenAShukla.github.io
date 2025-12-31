@@ -21,18 +21,14 @@ Experience
 ======
 * <strong>May 2024–Present: Research Intern</strong> — IIT Madras, <a href="https://www.cnde.in/" target="_blank" rel="noopener">CNDE Lab</a> (with Dr. Krishnan Balasubramanian)
   * Research on AI for non-destructive evaluation and reliability; supporting model development, data analysis, and lab collaborations.
-* <strong>Jan 2025–Mar 2025: Research Intern</strong> — IIITDM Kancheepuram, <a href="https://www.leaplab-iiitdm.co.in/team" target="_blank" rel="noopener">LEAP Lab</a> (with Dr. Uttam Mrinal Pal)
-  * Built deep learning models for early detection/classification of Oral Potentially Malignant Disorders (OPMDs) using clinical images; YOLO-based detection and CNN classifiers.
-  * Led literature review, dataset prep, domain-specific lesion annotation, augmentation, and lesion-aware feature engineering; collaborated with clinicians on screening impact.
-* <strong>Oct 2024–Nov 2024: AI Engineer Intern</strong> — <a href="https://lumio.ai/" target="_blank" rel="noopener">Lumio AI</a>
-  * Built and optimized RAG-enhanced LLM solutions for real-time client projects; led experimentation, feature engineering, and evals to improve reliability and context-aware responses.
-  * Collaborated across engineering and product teams to ship AI-driven features aligned with business goals.
+* <strong>Jan 2025–Mar 2025: Research Intern</strong> — Indian Institute of Information Technology, Design and Manufacturing, Kancheepuram
+  * Developed deep learning models for early detection and classification of Oral Potentially Malignant Disorders (OPMDs) using clinical image data. Conducted literature review, dataset preparation, and domain-specific annotation of lesions. Implemented YOLO-based object detection and CNN classifiers in PyTorch to identify high-risk conditions like leukoplakia, erythroplakia, OLP, OSF, and PVL. Enhanced model performance through targeted augmentation and lesion-specific feature engineering. Collaborated with clinical researchers to ensure diagnostic accuracy and translational impact in oral cancer screening.
+* <strong>Oct 2024–Nov 2024: AI Engineer Intern</strong> — Lumio AI
+  * Developed and optimized end-to-end AI solutions for real-time client projects, applying advanced deep learning techniques and algorithm fine-tuning. Integrated Retrieval-Augmented Generation (RAG) with large language models (LLMs) to elevate context-aware responses in AI systems. Led model experimentation, feature engineering, and evaluation, ensuring high performance and reliability. Collaborated across engineering and product teams to deliver AI-driven features aligned with business goals. Demonstrated expertise in artificial intelligence, strategic communication, and problem-solving in fast-paced, innovation-driven environments.
 * <strong>Feb 2020–Present: Founder & Director</strong> — <a href="https://www.globalsciencehub.com/" target="_blank" rel="noopener">GLOBAL SCIENCE</a>
-  * Started at age 12; affiliated with Vigyan Prasar (DST, GoI). Led NASA-funded asteroid discovery campaigns (19 finds) and organized India Techno Fest with experts from ISRO, IIT, and Meta.
-  * Ran programs (Inspiring Young, Science at Home) reaching 50K+ students; built a 150+ coordinator network and 10 mentors; consecutive Awards of Excellence (2020–22).
+  * Started GLOBAL SCIENCE at the <span class="semi-bold">age of 12</span>, later affiliated with <span class="semi-bold">Vigyan Prasar (DST, GoI)</span> as a nationally recognized science communication initiative. Led NASA-funded asteroid discovery campaigns (19 finds) and organized India Techno Fest featuring experts from ISRO, IIT, and Meta. Initiated programs like <em>Inspiring Young</em> and <em>Science at Home</em> (including virtual CERN tours), reaching over 50,000 students across India. Built a network of 150+ district coordinators and 10 mentors; earned consecutive Awards of Excellence (2020–21, 2021–22).
 * <strong>Oct 2020–Nov 2021: Citizen Scientist</strong> — <a href="https://iasc.cosmosearch.org/" target="_blank" rel="noopener">International Astronomical Search Collaboration (IASC)</a>
-  * Led Saptarishi VIPNET 03; mentored teachers/students across three states to 19 preliminary Main Belt asteroid discoveries.
-  * Delivered training on Astrometrica and MPC reporting; scaled grassroots citizen-science participation.
+  * Spearheaded the Saptarishi VIPNET 03 campaign as Team Leader, mentoring government school teachers across three Indian states in the discovery of 10 preliminary Main Belt asteroids. Elevated to National Mentor, leading teams of students and educators to 19 preliminary asteroid discoveries. Delivered technical training on Astrometrica and MPC reporting, empowering grassroots citizen scientists to contribute to global astronomical research.
 
 Research & Interests
 ======
