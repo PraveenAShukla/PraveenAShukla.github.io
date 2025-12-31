@@ -20,15 +20,19 @@ Education
 Experience
 ======
 * <strong>May 2024–Present: Research Intern</strong> — IIT Madras, <a href="https://www.cnde.in/" target="_blank" rel="noopener">CNDE Lab</a> (with Dr. Krishnan Balasubramanian)
-  * Research on AI for non-destructive evaluation and reliability; supporting model development and data analysis.
+  * Research on AI for non-destructive evaluation and reliability; supporting model development, data analysis, and lab collaborations.
 * <strong>Jan 2025–Mar 2025: Research Intern</strong> — IIITDM Kancheepuram, <a href="https://www.leaplab-iiitdm.co.in/team" target="_blank" rel="noopener">LEAP Lab</a> (with Dr. Uttam Mrinal Pal)
-  * Built deep learning models for early detection/classification of Oral Potentially Malignant Disorders (OPMDs) using clinical images; YOLO-based detection and CNN classifiers; partnered with clinicians on screening impact.
+  * Built deep learning models for early detection/classification of Oral Potentially Malignant Disorders (OPMDs) using clinical images; YOLO-based detection and CNN classifiers.
+  * Led literature review, dataset prep, domain-specific lesion annotation, augmentation, and lesion-aware feature engineering; collaborated with clinicians on screening impact.
 * <strong>Oct 2024–Nov 2024: AI Engineer Intern</strong> — <a href="https://lumio.ai/" target="_blank" rel="noopener">Lumio AI</a>
-  * Delivered RAG-enhanced LLM solutions for real-time client use cases; led experimentation, feature engineering, and evals to improve reliability and context-aware responses.
+  * Built and optimized RAG-enhanced LLM solutions for real-time client projects; led experimentation, feature engineering, and evals to improve reliability and context-aware responses.
+  * Collaborated across engineering and product teams to ship AI-driven features aligned with business goals.
 * <strong>Feb 2020–Present: Founder & Director</strong> — <a href="https://www.globalsciencehub.com/" target="_blank" rel="noopener">GLOBAL SCIENCE</a>
-  * NASA-funded asteroid discovery campaigns (19 finds); organized India Techno Fest; grew a 150+ coordinator network delivering STEM outreach to 50K+ students; consecutive Awards of Excellence.
+  * Started at age 12; affiliated with Vigyan Prasar (DST, GoI). Led NASA-funded asteroid discovery campaigns (19 finds) and organized India Techno Fest with experts from ISRO, IIT, and Meta.
+  * Ran programs (Inspiring Young, Science at Home) reaching 50K+ students; built a 150+ coordinator network and 10 mentors; consecutive Awards of Excellence (2020–22).
 * <strong>Oct 2020–Nov 2021: Citizen Scientist</strong> — <a href="https://iasc.cosmosearch.org/" target="_blank" rel="noopener">International Astronomical Search Collaboration (IASC)</a>
-  * Mentored teachers/students to 19 preliminary Main Belt asteroid discoveries; provided training on Astrometrica and MPC reporting.
+  * Led Saptarishi VIPNET 03; mentored teachers/students across three states to 19 preliminary Main Belt asteroid discoveries.
+  * Delivered training on Astrometrica and MPC reporting; scaled grassroots citizen-science participation.
 
 Research & Interests
 ======
