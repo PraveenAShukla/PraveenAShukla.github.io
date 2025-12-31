@@ -15,19 +15,19 @@ Freshman AI Engineering undergrad at MBZUAI (Abu Dhabi), focused on research-min
 
 Education
 ======
-* B.S. in AI Engineering, Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), Abu Dhabi — In progress
+* B.S. in AI Engineering, MBZUAI — Abu Dhabi — In progress
 
 Experience
 ======
-* May 2024–Present: Research Intern — IIT Madras, <a href="https://www.cnde.in/" target="_blank" rel="noopener">CNDE Lab</a> (with Dr. Krishnan Balasubramanian)
+* <strong>May 2024–Present: Research Intern</strong> — IIT Madras, <a href="https://www.cnde.in/" target="_blank" rel="noopener">CNDE Lab</a> (with Dr. Krishnan Balasubramanian)
   * Research on AI for non-destructive evaluation and reliability; supporting model development and data analysis.
-* Jan 2025–Mar 2025: Research Intern — IIITDM Kancheepuram, <a href="https://www.leaplab-iiitdm.co.in/team" target="_blank" rel="noopener">LEAP Lab</a> (with Dr. Uttam Mrinal Pal)
+* <strong>Jan 2025–Mar 2025: Research Intern</strong> — IIITDM Kancheepuram, <a href="https://www.leaplab-iiitdm.co.in/team" target="_blank" rel="noopener">LEAP Lab</a> (with Dr. Uttam Mrinal Pal)
   * Built deep learning models for early detection/classification of Oral Potentially Malignant Disorders (OPMDs) using clinical images; YOLO-based detection and CNN classifiers; partnered with clinicians on screening impact.
-* Oct 2024–Nov 2024: AI Engineer Intern — <a href="https://lumio.ai/" target="_blank" rel="noopener">Lumio AI</a>
+* <strong>Oct 2024–Nov 2024: AI Engineer Intern</strong> — <a href="https://lumio.ai/" target="_blank" rel="noopener">Lumio AI</a>
   * Delivered RAG-enhanced LLM solutions for real-time client use cases; led experimentation, feature engineering, and evals to improve reliability and context-aware responses.
-* Feb 2020–Present: Founder & Director — <a href="https://www.globalsciencehub.com/" target="_blank" rel="noopener">GLOBAL SCIENCE</a>
+* <strong>Feb 2020–Present: Founder & Director</strong> — <a href="https://www.globalsciencehub.com/" target="_blank" rel="noopener">GLOBAL SCIENCE</a>
   * NASA-funded asteroid discovery campaigns (19 finds); organized India Techno Fest; grew a 150+ coordinator network delivering STEM outreach to 50K+ students; consecutive Awards of Excellence.
-* Oct 2020–Nov 2021: Citizen Scientist — <a href="https://iasc.cosmosearch.org/" target="_blank" rel="noopener">International Astronomical Search Collaboration (IASC)</a>
+* <strong>Oct 2020–Nov 2021: Citizen Scientist</strong> — <a href="https://iasc.cosmosearch.org/" target="_blank" rel="noopener">International Astronomical Search Collaboration (IASC)</a>
   * Mentored teachers/students to 19 preliminary Main Belt asteroid discoveries; provided training on Astrometrica and MPC reporting.
 
 Research & Interests
@@ -39,11 +39,11 @@ Research & Interests
 
 Projects
 ======
-* EdgeRAG (AAAI 2026 EGSAI Workshop, solo author): Packable, offline, fairness-aware RAG micro-models for low-connectivity regions; compact knowledge packs + compressed multilingual retriever; dual answering path for low-end devices.
-* LLM agent workflows: Retrieval + tool-use pipelines for research productivity with evaluation loops, reliability dashboards, and data-quality checks.
-* Healthcare graphs: Prototyping graph learning pipelines on patient trajectories and molecular data with fairness and data-quality audits.
-* Next-Gen Hyper-Personalized AI Email Engine: IMAP→PDF parsing→LLM reply generation with review UI; cut reply time by 99%; stack: Python/Flask/OpenAI/SMTP/IMAP.
-* AI Productivity Suite — AssistX: Modular multi-agent hub integrating ChatGPT/Whisper/Vision APIs with secure routing and session memory; reduced tool-switching by ~70%.
+* <strong>EdgeRAG</strong> (AAAI 2026 EGSAI Workshop, solo author): Packable, offline, fairness-aware RAG micro-models for low-connectivity regions; compact knowledge packs + compressed multilingual retriever; dual answering path for low-end devices.
+* <strong>LLM agent workflows</strong>: Retrieval + tool-use pipelines for research productivity with evaluation loops, reliability dashboards, and data-quality checks.
+* <strong>Healthcare graphs</strong>: Prototyping graph learning pipelines on patient trajectories and molecular data with fairness and data-quality audits.
+* <strong>Next-Gen Hyper-Personalized AI Email Engine</strong>: IMAP→PDF parsing→LLM reply generation with review UI; cut reply time by 99%; stack: Python/Flask/OpenAI/SMTP/IMAP.
+* <strong>AI Productivity Suite — AssistX</strong>: Modular multi-agent hub integrating ChatGPT/Whisper/Vision APIs with secure routing and session memory; reduced tool-switching by ~70%.
 
 Skills
 ======

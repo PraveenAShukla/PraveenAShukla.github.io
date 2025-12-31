@@ -73,7 +73,7 @@ custom_js:
     <div class="section-block" id="education">
       <div class="section-heading"><span class="icon">🎓</span><span>Education</span></div>
       <div class="edu-item">
-        <p class="item-title">Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)</p>
+        <p class="item-title">MBZUAI</p>
         <p class="timeframe">2024 - 2028 | Abu Dhabi, UAE</p>
         <p class="item-sub">B.Tech in Artificial Intelligence &amp; Data Science — SGPA: 9/10</p>
       </div>
