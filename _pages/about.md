@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Praveen Shukla—an AI Engineering undergrad at MBZUAI in Abu Dhabi, building intelligent systems that reason, learn, and assist humans on real-world scientific and societal challenges. I work at the intersection of graph deep learning, LLM agents, healthcare AI, and fairness, aiming to create AI co-scientists that push the boundaries of discovery and impact.
+Hi, I'm Praveen Shukla—a freshman AI Engineering undergrad at MBZUAI (Abu Dhabi), focused on research-minded building of reasoning-centric AI systems. I'm exploring the intersection of graph deep learning, LLM agents, healthcare AI, fairness, and personalization, with an emphasis on rigorous experimentation and reproducible prototypes. Long term, I want to contribute to AI co-scientists—systems that can collaborate with humans to accelerate reliable discovery and real-world impact.
 
 What I’m working on
 ------
