@@ -30,6 +30,18 @@ Research & Interests
 * Retrieval + agentic workflows with LLMs
 * Evaluation, data quality, and efficient deployment
 
+Projects
+======
+* EdgeRAG: Packable, offline, fairness-aware retrieval-augmented micro-models for low-connectivity regions (AAAI 2026 EGSAI Workshop, solo author). Built compact knowledge packs and compressed multilingual retriever; dual answering path for low-end devices.
+* LLM agent workflows: Retrieval + tool-use pipelines for research productivity with evaluation loops and reliability dashboards.
+* Healthcare graphs: Prototyping graph learning pipelines on patient trajectories and molecular data with fairness and data-quality checks.
+
+Skills
+======
+* Machine learning: graph neural networks, retrieval-augmented generation, LLM agents, evaluation and experimentation
+* Systems: model compression, CPU-only/edge deployment, data quality pipelines
+* Languages/tools: Python, PyTorch, JAX (basic), data tooling for experimentation
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
