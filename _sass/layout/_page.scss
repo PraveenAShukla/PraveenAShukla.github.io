@@ -36,6 +36,7 @@
 .page__title {
   margin-top: 0;
   line-height: 1;
+  color: #e45a00 !important;
 
   & + .page__meta {
     margin-top: -0.5em;
@@ -48,11 +49,13 @@
 }
 
 .page__content {
+  h1,
   h2,
   h3 {
     color: #e45a00 !important;
   }
 
+  h1 a,
   h2 a,
   h3 a {
     color: inherit !important;
