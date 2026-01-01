@@ -50,15 +50,15 @@
 .page__content {
   h2,
   h3 {
-    color: #e45a00;
+    color: #e45a00 !important;
   }
 
   h2 a,
   h3 a {
-    color: inherit;
+    color: inherit !important;
 
     &:hover {
-      color: darken(#e45a00, 8%);
+      color: darken(#e45a00, 8%) !important;
     }
   }
 
