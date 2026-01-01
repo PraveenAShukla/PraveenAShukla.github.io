@@ -12,14 +12,6 @@ redirect_from:
 .page__content, .page__inner-wrap {
   max-width: 1200px;
 }
-/* Consistent section accent color */
-.page__content h2,
-.page__content h3,
-.page__content .pub-title {
-  color: #e45a00;
-}
-.pub-title a { color: inherit; }
-.pub-title a:hover { color: #c84d00; }
 </style>
 
 Hi, I'm Praveen Shukla—a freshman AI Engineering undergrad at MBZUAI (Abu Dhabi), focused on research-minded building of reasoning-centric AI systems. I'm exploring the intersection of graph deep learning, LLM agents, healthcare AI, fairness, and personalization, with an emphasis on rigorous experimentation and reproducible prototypes. Long term, I want to contribute to AI co-scientists—systems that can collaborate with humans to accelerate reliable discovery and real-world impact.
@@ -108,13 +100,6 @@ News & updates
   <li><span class="news-date">Mar 2025:</span> Open to collaborations on applied AI in healthcare and graph learning—reach out!</li>
 </ul>
 
-Collaboration
-------
-<details>
-  <summary><span style="color:#b22222;">Collaboration with Ph.D./Master/Bachelor Students</span></summary>
-  <p>I would be happy to collaborate with Ph.D./Master/Bachelor students who want to work on graph deep learning, LLM agents, healthcare AI, fairness, and personalization. I also have projects in these areas that we can discuss.</p>
-</details>
-
 Recent highlights
 ------
 - Built and shipped LLM agent workflows for research productivity
@@ -134,3 +119,10 @@ Find me
 - Email: praveen.shukla@mbzuai.ac.ae
 - GitHub: [PraveenAShukla](https://github.com/PraveenAShukla)
 - LinkedIn: [praveen-ashukla](https://www.linkedin.com/in/praveen-ashukla)
+
+Collaboration
+------
+<details>
+  <summary><span style="color:#b22222;">Collaboration with Ph.D./Master/Bachelor Students</span></summary>
+  <p>I would be happy to collaborate with Ph.D./Master/Bachelor students who want to work on graph deep learning, LLM agents, healthcare AI, fairness, and personalization. I also have projects in these areas that we can discuss.</p>
+</details>

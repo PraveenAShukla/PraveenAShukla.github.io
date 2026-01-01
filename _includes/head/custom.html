@@ -14,15 +14,22 @@
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="#ffffff"/>
 
-<!-- accent color override -->
+<!-- accent color override (section headings only) -->
 <style>
-  h1, h2, h3 {
+  .page__title,
+  .page__content > h1,
+  .page__content > h2,
+  .page__content > h3 {
     color: #e45a00 !important;
   }
-  h1 a, h2 a, h3 a {
+  .page__content > h1 a,
+  .page__content > h2 a,
+  .page__content > h3 a {
     color: inherit !important;
   }
-  h1 a:hover, h2 a:hover, h3 a:hover {
+  .page__content > h1 a:hover,
+  .page__content > h2 a:hover,
+  .page__content > h3 a:hover {
     color: #c84d00 !important;
   }
 </style>
