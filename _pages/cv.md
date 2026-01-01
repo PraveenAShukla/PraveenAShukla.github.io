@@ -63,13 +63,18 @@ Achievements
 
 Certifications
 ======
-* Build Large Language Models (LLMs) from Scratch — Vizuara AI (May 2025–Present)
-* Introduction to Statistics — Stanford (May 2025)
-* Reinforcement Learning From Human Feedback — DeepLearning.AI (Apr 2025)
-* Fundamentals of AI Agents Using RAG and LangChain — IBM (Jan 2025)
-* Supervised Machine Learning: Regression and Classification — DeepLearning.AI (Jan 2025)
-* Developing AI Applications with Python and Flask — IBM (Dec 2024)
-* Python for Data Science, AI & Development — IBM (Sep 2024)
+<details>
+  <summary>View certifications</summary>
+  <ul>
+    <li>Build Large Language Models (LLMs) from Scratch — Vizuara AI (May 2025–Present)</li>
+    <li>Introduction to Statistics — Stanford (May 2025)</li>
+    <li>Reinforcement Learning From Human Feedback — DeepLearning.AI (Apr 2025)</li>
+    <li>Fundamentals of AI Agents Using RAG and LangChain — IBM (Jan 2025)</li>
+    <li>Supervised Machine Learning: Regression and Classification — DeepLearning.AI (Jan 2025)</li>
+    <li>Developing AI Applications with Python and Flask — IBM (Dec 2024)</li>
+    <li>Python for Data Science, AI & Development — IBM (Sep 2024)</li>
+  </ul>
+</details>
 
 Publications
 ======
