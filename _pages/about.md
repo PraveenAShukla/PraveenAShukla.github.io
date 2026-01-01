@@ -106,6 +106,13 @@ News & updates
   <li><span class="news-date">Mar 2025:</span> Open to collaborations on applied AI in healthcare and graph learning—reach out!</li>
 </ul>
 
+Collaboration
+------
+<details>
+  <summary><span style="color:#b22222;">Collaboration with Ph.D./Master/Bachelor Students</span></summary>
+  <p>I would be happy to collaborate with Ph.D./Master/Bachelor students who want to work on graph deep learning, LLM agents, healthcare AI, fairness, and personalization. I also have projects in these areas that we can discuss.</p>
+</details>
+
 Recent highlights
 ------
 - Built and shipped LLM agent workflows for research productivity
