@@ -12,64 +12,11 @@ redirect_from:
 .page__content, .page__inner-wrap {
   max-width: 1200px;
 }
-
-.photo-lead {
-  margin: 1.5rem 0 2rem;
-}
-
-.photo-lead figure,
-.snapshot-card {
-  margin: 0;
-}
-
-.photo-lead img,
-.snapshot-card img {
-  display: block;
-  width: 100%;
-  border-radius: 18px;
-  object-fit: cover;
-}
-
-.photo-lead img {
-  max-height: 420px;
-  object-position: center top;
-  border: 1px solid var(--global-border-color);
-}
-
-.photo-caption {
-  margin-top: 0.6rem;
-  color: #666;
-  font-size: 0.95rem;
-}
-
-.snapshot-grid {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 1rem;
-  margin: 1.25rem 0 2rem;
-}
-
-.snapshot-card img {
-  aspect-ratio: 1 / 1;
-}
-
-@media (max-width: 800px) {
-  .snapshot-grid {
-    grid-template-columns: 1fr;
-  }
-}
 </style>
 
 Hi, I'm Praveen Shukla-a freshman AI Engineering undergrad at MBZUAI (Abu Dhabi), focused on research-minded building of reasoning-centric AI systems. I'm exploring the intersection of graph deep learning, LLM agents, healthcare AI, fairness, and personalization, with an emphasis on rigorous experimentation and reproducible prototypes. Long term, I want to contribute to AI co-scientists-systems that can collaborate with humans to accelerate reliable discovery and real-world impact.
 
 <p><u>I am always open to collaboration!</u></p>
-
-<section class="photo-lead">
-  <figure>
-    <img src="{{ '/images/praveen_profile.png' | relative_url }}" alt="Portrait of Praveen Shukla" loading="lazy">
-    <figcaption class="photo-caption">A recent portrait for the site.</figcaption>
-  </figure>
-</section>
 
 What I’m working on
 ------
@@ -155,17 +102,6 @@ News & updates
   <li><span class="news-date">May 2025:</span> Presented internal talk on retrieval + agentic pipelines for healthcare use cases.</li>
   <li><span class="news-date">Mar 2025:</span> Open to collaborations on applied AI in healthcare and graph learning—reach out!</li>
 </ul>
-
-<section class="snapshot-grid">
-  <figure class="snapshot-card">
-    <img src="{{ '/images/profile-5.png' | relative_url }}" alt="Praveen Shukla presenting at a workshop" loading="lazy">
-    <figcaption class="photo-caption">Presenting research work at a workshop session.</figcaption>
-  </figure>
-  <figure class="snapshot-card">
-    <img src="{{ '/images/profile-2.png' | relative_url }}" alt="Praveen Shukla speaking during a presentation" loading="lazy">
-    <figcaption class="photo-caption">Another speaking snapshot from the same event.</figcaption>
-  </figure>
-</section>
 
 Recent highlights
 ------
