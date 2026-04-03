@@ -61,7 +61,7 @@ Achievements
 * Co-discoverer of Main Belt Asteroid 2020UJ37 (IAU MPC) — 2020
 * Merck India Scholar (Merck India Charitable Trust) — 2022–2028
 * Top 20, AI Quiz on National Science Day (NSD-2022), BARC Mumbai — 2022
-* State topper in Mathematics (MSBSHSE) — 2021
+* State topper in Mathematics (MSBSHSE) in High School
 * 1st Position, Youth Invention (₹5,000 prize) — 2020
 * National Top Performer, MyGov Quiz by MeitY — 2018
 
