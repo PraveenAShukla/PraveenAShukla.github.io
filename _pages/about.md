@@ -93,6 +93,9 @@ News & updates
 .news-date { font-weight: 700; color: #b22222; margin-right: 0.35rem; }
 </style>
 <ul class="news-list">
+  <li><span class="news-date">Feb 2026:</span> Won the Rising Star Award in the K2 Think x OpenClaw Buildathon, organized by MBZUAI's <a href="https://mbzuai.ac.ae/iec/">Incubation and Entrepreneurship Center (IEC)</a> and the <a href="https://ifm.ai/">Institute of Foundation Models (IFM)</a>, with prizes worth $30,000 USD.</li>
+  <li><span class="news-date">Jan 2026:</span> Finalist for the 3-Minute Presentation (3MT) at the <a href="https://sites.google.com/view/globalsouthai-aaai-26/home">AAAI 2026 EGSAI workshop</a> in Singapore.</li>
+  <li><span class="news-date">Nov 2025:</span> Selected as Winner #1 in the K2 Think Challenge at MBZUAI, with my entry ranked first among nearly 600 submissions.</li>
   <li><span class="news-date">Nov 2025:</span> EdgeRAG (solo author) accepted to AAAI 2026 EGSAI Workshop; preparing camera-ready and demo artifacts.</li>
   <li><span class="news-date">Sept 2025:</span> Shipped new LLM agent workflows for research productivity; rolling out eval dashboards for tool reliability.</li>
   <li><span class="news-date">July 2025:</span> Prototyped graph neural models on patient trajectory data; running ablations on data quality and fairness.</li>
