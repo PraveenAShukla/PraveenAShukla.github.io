@@ -53,9 +53,9 @@ Skills
 
 Achievements
 ======
-* Rising Star Award, K2 Think x OpenClaw Buildathon (organized by MBZUAI's <a href="https://mbzuai.ac.ae/iec/" target="_blank" rel="noopener">IEC</a> and <a href="https://ifm.ai/" target="_blank" rel="noopener">IFM</a>) with prizes worth $30,000 USD — Feb 2026
+* Rising Star Award, K2Think x OpenClaw Buildathon (organized by MBZUAI's <a href="https://mbzuai.ac.ae/iec/" target="_blank" rel="noopener">IEC</a> and <a href="https://ifm.ai/" target="_blank" rel="noopener">IFM</a>) with prizes worth $30,000 USD — Feb 2026
 * Finalist, 3-Minute Presentation (3MT), <a href="https://sites.google.com/view/globalsouthai-aaai-26/home" target="_blank" rel="noopener">AAAI 2026 EGSAI Workshop</a>, Singapore — Jan 2026
-* Winner #1, K2 Think Challenge at MBZUAI; ranked first among nearly 600 submissions — Nov 2025
+* Winner #1, K2Think Challenge at MBZUAI; ranked first among nearly 600 submissions — Nov 2025
 * <strong>EdgeRAG</strong> accepted to AAAI 2026 EGSAI Workshop (solo author) — Nov 2025
 * Finalist, Pulse @ Techfest IIT Bombay — GenAI Buildathon (2024)
 * Co-discoverer of Main Belt Asteroid 2020UJ37 (IAU MPC) — 2020
